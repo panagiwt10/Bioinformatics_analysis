@@ -4,7 +4,7 @@ This repository contains R scripts for performing a comprehensive microbiome dat
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ### 1. `ex1.R`: Data Acquisition & Study Design
 This script handles the initial setup and exploratory data analysis (EDA).
